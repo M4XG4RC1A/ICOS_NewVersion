@@ -1,0 +1,13 @@
+["Si","No","","","",""]
+Start
+Hi
+Readed
+End
+["Si","Mama","Hola","","",""]
+Start
+
+End
+["Yo Quiero","Dibujar","","","",""]
+Start
+Interaction of Draw
+End

@@ -1,0 +1,13 @@
+{
+    "width": 1,
+    "height": 1,
+    "rows": 2,
+    "columns": 2,
+    "gapW": 0.02,
+    "gapH": 0.02,
+    "text": 0.02,
+    "bgColor": "#0000FF",
+    "txtColor": "#000000",
+    "bgtxtColor": "#FFFFFF",
+    "imgColor": "#FFFFFF"
+}

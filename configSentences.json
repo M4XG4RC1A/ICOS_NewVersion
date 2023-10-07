@@ -1,0 +1,11 @@
+{
+    "width": 0.8,
+    "height": 0.2,
+    "concepts": 5,
+    "gapW": 0.04,
+    "gapH": 0.03,
+    "bgColor": "#080808",
+    "txtColor": "#000000",
+    "bgtxtColor": "#080808",
+    "imgColor": "#FFFFFF"
+}
